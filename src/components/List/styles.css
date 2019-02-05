@@ -1,0 +1,6 @@
+.List {
+  margin-right: -0.36rem;
+  margin-left: -0.36rem;
+  max-height: 240px;
+  overflow-y: auto;
+}

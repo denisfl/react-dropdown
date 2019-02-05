@@ -1,0 +1,10 @@
+.Item {
+  padding: 0.36rem;
+  cursor: pointer;
+}
+
+.Item:hover,
+.Item.is-active {
+  background-color: #7a9189;
+  color: #fff;
+}
