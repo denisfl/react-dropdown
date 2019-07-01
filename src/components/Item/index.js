@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 
 import './styles.css';
 
-// const Item = ({ title, isActive }) => {
 class Item extends Component {
   constructor (props) {
     super(props)
